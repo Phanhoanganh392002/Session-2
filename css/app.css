@@ -1,0 +1,45 @@
+h1{
+    color: #ab5428;
+}
+p2{
+
+}
+p1{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 460;
+    line-height: 1.25;
+    text-align: left;
+    text-transform: none;
+    text-decoration: none;
+    font-style: italic;
+
+    width: 1000px;
+    border-bottom: 1px solid #ff0000;
+}
+body{
+    margin: auto;
+    width: 60%;
+    border: 3px ;
+    padding: 100px;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 460;
+    line-height: 1.25;
+    text-align: left;
+    text-transform: none;
+    text-decoration: none;
+    font-style: italic;
+
+    width: 1000px;
+    border-bottom: 1px solid #ff0000;
+}
+u{
+    color: red;
+}
